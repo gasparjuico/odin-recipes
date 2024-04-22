@@ -3,7 +3,7 @@
 ## Description
 This is a basic recipe website created with HTML.
 
-## Skills Demonstarted
+## Skills Demonstrated
 - Git
   - Create git repository
   - Set up README.md file
